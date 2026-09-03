@@ -1,141 +1,117 @@
-<h1 align="center">Hi 👋, I'm Yosr Zayani</h1>
-
-<h3 align="center">
-  Software Engineer | Full-Stack & Mobile Developer
-</h3>
+<p align="center">
+  <img src="./assets/github-banner.svg" width="100%" alt="Yosr Zayani — Software Engineer" />
+</p>
 
 <p align="center">
-  I build scalable web and mobile applications using Java, Spring Boot,
-  Angular, React Native and Node.js.
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Software Engineering graduate from ESPRIT
-- 💚 Passionate about Java and Spring Boot
-- 📱 Currently developing **Al Malaki Fresh**, a full-stack mobile commerce application
-- 🧩 Interested in backend development, microservices and system architecture
-- 🐳 Experienced with Docker, Kubernetes and CI/CD tools
-- 🌍 Based in Tunisia and open to international opportunities
-- 🗣️ Arabic native speaker, with professional French and English
-
----
-
-## 🛠️ Technologies
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-</p>
-
-### Frontend and Mobile
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-</p>
-
-### DevOps and Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/WSO2-FF7300?style=for-the-badge&logoColor=white" alt="WSO2"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 Al Malaki Fresh
-
-A full-stack mobile commerce platform composed of a React Native application, an administration dashboard and backend services.
-
-**Main features:**
-
-- Product and category management
-- Customer authentication
-- Order management
-- Online and cash-on-delivery payments
-- Reviews and notifications
-- Redis integration
-- Docker and Kubernetes deployment
-
-**Technologies:** React Native, Expo, Node.js, Express, Prisma, PostgreSQL, Redis, Docker and Kubernetes.
-
----
-
-### 🏦 Banking Microservices Platform
-
-A banking platform developed using a microservices architecture for managing customer subscriptions, accounts, credit requests, cards, appointments and notifications.
-
-**Technologies:** Java, Spring Boot, Angular, Spring Cloud Gateway, Eureka, Config Server, MySQL, WSO2 and Docker.
-
----
-
-### 🏍️ Moutouri
-
-A marketplace for buying and selling used motorcycles and spare parts, with a multi-role management dashboard.
-
-**Technologies:** React, Node.js, Express and MongoDB.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=yoserzayani&show_icons=true&theme=transparent&hide_border=true"
-    alt="Yosr's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoserzayani&layout=compact&theme=transparent&hide_border=true"
-    alt="Yosr's most used languages"
-  />
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yosr-zayani-21500a246/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
   <a href="https://yosr-portfolio.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-247A3E?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1F7A45?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/yosr-zayani-21500a246/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+About me
+
+I am a software engineer focused on building reliable web, mobile and backend applications. I especially enjoy working with Java and Spring Boot, designing REST APIs and microservices, and turning product requirements into complete user experiences with Angular, React and React Native.
+
+Currently building Al Malaki Fresh, a full-stack mobile commerce platform
+
+Interested in backend engineering, distributed systems and application architecture
+
+Comfortable working across development, databases, testing and deployment
+
+Based in Tunisia and open to international software engineering opportunities
+
+Arabic native speaker, with professional proficiency in French and English
+
+Technology stack
+
+Core development
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+</p>
+
+Data and infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+</p>
+
+Platforms and tools
+
+<p>
+  <img src="https://img.shields.io/badge/WSO2-FF7300?style=flat-square" alt="WSO2" />
+  <img src="https://img.shields.io/badge/SAP_Commerce_Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Commerce Cloud" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Al Malaki Fresh</h3>
+      <p>A full-stack mobile commerce platform with a customer application, administration dashboard and backend services.</p>
+      <p><strong>Highlights:</strong> catalogue management, authentication, orders, card and cash-on-delivery payments, reviews, notifications and deployment.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>Node.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kubernetes</code></p>
+      <p>🔒 Private source code · <a href="https://yosr-portfolio.vercel.app/">View portfolio</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏍️ Moutouri</h3>
+      <p>A marketplace for used motorcycles and spare parts, supported by a multi-role administration dashboard.</p>
+      <p><strong>Highlights:</strong> listings, account management, role-based workflows and marketplace administration.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
+      <p>🔒 Private source code · <a href="https://yosr-portfolio.vercel.app/">View portfolio</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏦 Banking Microservices Platform</h3>
+      <p>A modular banking platform covering customer onboarding, account services, credit requests, cards, appointments and notifications.</p>
+      <p><strong>Highlights:</strong> microservice architecture, service discovery, centralized configuration, API gateway, authentication and asynchronous notifications.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>Angular</code> <code>Spring Cloud Gateway</code> <code>Eureka</code> <code>WSO2</code> <code>MySQL</code> <code>Docker</code></p>
+      <p>🔒 Private source code · Technical details shared without confidential code or data</p>
+    </td>
+  </tr>
+</table>
+
+What I bring to a project
+
+End-to-end development from database design and APIs to responsive interfaces
+
+Microservice design using gateways, service discovery and centralized configuration
+
+Containerized development and deployment with Docker and Kubernetes
+
+Attention to API reliability, payment consistency, testing and maintainable code
+
+Clear communication in Arabic, French and English
+
+Let’s connect
+
+I am open to software engineering, backend and full-stack opportunities where I can contribute, learn and build useful products.
+
+<p>
+  <a href="https://www.linkedin.com/in/yosr-zayani-21500a246/">LinkedIn</a>
+  ·
+  <a href="https://yosr-portfolio.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://github.com/yoserzayani">GitHub</a>
 </p>
