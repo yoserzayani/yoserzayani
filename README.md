@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.svg" width="100%" alt="Yosr Zayani — Software Engineer" />
+  <img src="github-banner.svg" width="100%" alt="Yosr Zayani — Software Engineer" />
 </p>
 
 <p align="center">
