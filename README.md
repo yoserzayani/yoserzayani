@@ -15,7 +15,7 @@ About me
 
 <table>
   <tr>
-    <td width="32%" align="center" valign="top">
+    <td width="30%" align="center" valign="top">
       <img src="software-engineer.jpeg" width="260" alt="Software engineering illustration" />
     </td>
     <td width="68%" valign="top">
