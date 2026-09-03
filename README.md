@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.svg" width="100%" alt="Yosr Zayani — Software Engineer" />
+  <img src="./assets/github-banner.svg" width="100%" alt="Yosr Zayani — Software Engineer" />
 </p>
 
 <p align="center">
@@ -13,17 +13,23 @@
 
 About me
 
-I am a software engineer focused on building reliable web, mobile and backend applications. I especially enjoy working with Java and Spring Boot, designing REST APIs and microservices, and turning product requirements into complete user experiences with Angular, React and React Native.
-
-Currently building Al Malaki Fresh, a full-stack mobile commerce platform
-
-Interested in backend engineering, distributed systems and application architecture
-
-Comfortable working across development, databases, testing and deployment
-
-Based in Tunisia and open to international software engineering opportunities
-
-Arabic native speaker, with professional proficiency in French and English
+<table>
+  <tr>
+    <td width="32%" align="center" valign="top">
+      <img src="./assets/software-engineer.jpeg" width="260" alt="Software engineering illustration" />
+    </td>
+    <td width="68%" valign="top">
+      <p>I am a software engineer focused on building reliable web, mobile and backend applications. I especially enjoy working with <strong>Java and Spring Boot</strong>, designing REST APIs and microservices, and turning product requirements into complete user experiences with <strong>Angular, React and React Native</strong>.</p>
+      <ul>
+        <li>Currently building <strong>Al Malaki Fresh</strong>, a full-stack mobile commerce platform</li>
+        <li>Interested in backend engineering, distributed systems and application architecture</li>
+        <li>Comfortable working across development, databases, testing and deployment</li>
+        <li>Based in Tunisia and open to international software engineering opportunities</li>
+        <li>Arabic native speaker, with professional proficiency in French and English</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 Technology stack
 
