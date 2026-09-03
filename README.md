@@ -15,8 +15,8 @@ About me
 
 <table>
   <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="software-engineer.jpeg" width="260" alt="Software engineering illustration" />
+    <td width="32%" align="center" valign="top">
+      <img src="software-engineer.jpeg" width="200" alt="Software engineering illustration" />
     </td>
     <td width="68%" valign="top">
       <p>I am a software engineer focused on building reliable web, mobile and backend applications. I especially enjoy working with <strong>Java and Spring Boot</strong>, designing REST APIs and microservices, and turning product requirements into complete user experiences with <strong>Angular, React and React Native</strong>.</p>
